@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>Photo/Furukawa Nagisa.jpg</file>
+        <file>Photo/N.jpg</file>
+        <file>PlayerView.qml</file>
+    </qresource>
+</RCC>
